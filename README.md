@@ -7,8 +7,7 @@ This portfolio shows projects created by me, using Power BI and Python to analys
 ### 🚍 Brisbane Transport Policy Analysis
 
 * Analysed the impact of the 50-cent public transport fare policy on patronage
-* Built Power BI dashboards to track trends across time
-* Found that ridership growth aligned with post-COVID recovery rather than policy-driven change
+* Built Power BI dashboard to track trends across time
 
 👉 [View Project](./transport-policy-analysis)
 
@@ -16,7 +15,7 @@ This portfolio shows projects created by me, using Power BI and Python to analys
 
 ### 🎧 Spotify Data Analysis
 
-* Analysed 500k+ Spotify tracks to identify factors influencing song popularity
+* Analysed thousands of Spotify tracks to identify factors influencing song popularity
 * Built interactive dashboards to explore trends in artists, genres, and track features
 
 👉 [View Project](./spotify-analysis)

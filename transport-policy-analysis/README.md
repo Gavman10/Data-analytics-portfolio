@@ -16,8 +16,9 @@ Did the 50-cent fare policy increase public transport ridership?
 
 * Ridership increased ~1.5% after policy introduction
 * Growth aligned with post-COVID recovery trends
-* Estimated ~10% revenue decline (given that each trip is $3.00)
+* Estimated ~10% revenue decline (given that each trip is $3.50)
 
 ## Dashboard
 
-<img width="1702" height="953" alt="image" src="https://github.com/user-attachments/assets/6c308460-0863-4191-a6ce-bf336f4523a8" />
+<img width="1695" height="957" alt="image" src="https://github.com/user-attachments/assets/4b4d65c5-09e4-48b9-b1cc-834acb5b73ce" />
+

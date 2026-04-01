@@ -4,13 +4,12 @@ Did the 50-cent fare policy increase public transport ridership?
 
 ## Data
 
-* Public transport ridership data extracted from QLD Data
-* Time-series data (pre, during, post COVID)
+* Public transport patronage data extracted from QLD Data
+* Time-series data (from 2012 - 2025, with pre-, post-, during COVID Labels)
 
 ## Tools Used
 
 * Power BI
-* Python (Pandas)
 
 ## Key Insights
 
@@ -20,5 +19,7 @@ Did the 50-cent fare policy increase public transport ridership?
 
 ## Dashboard
 
-<img width="1695" height="957" alt="image" src="https://github.com/user-attachments/assets/4b4d65c5-09e4-48b9-b1cc-834acb5b73ce" />
+<img width="1697" height="954" alt="image" src="https://github.com/user-attachments/assets/990091bf-dacf-47d6-8391-75f3de31825e" />
 
+
+<img width="1693" height="954" alt="image" src="https://github.com/user-attachments/assets/d42cb340-f6a3-4df5-abfc-34d2857895fc" />

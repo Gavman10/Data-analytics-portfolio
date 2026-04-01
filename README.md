@@ -1,6 +1,6 @@
 # Data-analytics-portfolio
 
-This portfolio shows projects using Power BI and Python to analyse real-world datasets and generate actionable insights.
+This portfolio shows projects created by me, using Power BI and Python to analyse real-world datasets and generate actionable insights.
 
 ## Projects
 

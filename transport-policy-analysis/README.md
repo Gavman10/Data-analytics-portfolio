@@ -1,15 +1,11 @@
 # Brisbane Transport Policy Analysis
 
-Did the 50-cent fare policy increase public transport ridership?
+Focus of the portfolio: Did the 50-cent fare policy increase the usage of public transport?
 
 ## Data
 
 * Public transport patronage data extracted from QLD Data
 * Time-series data (from 2012 - 2025, with pre-, post-, during COVID Labels)
-
-## Tools Used
-
-* Power BI
 
 ## Key Insights
 
